@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lato&display=swap');
+
+body {
+    width: 75%;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+}
+
+#title {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+
+.card-deck {
+    margin-bottom: 20px;
+}
